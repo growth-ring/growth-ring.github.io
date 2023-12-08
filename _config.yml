@@ -2,8 +2,8 @@
 name: "Task Grow"
 title: "Memoirs"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -17,14 +17,14 @@ authors:
   kyuwon:
     name: Kyuwon
     display_name: kyuwon
-    avatar: 'assets/images/kyuwon.jpeg'
+    avatar: '/assets/images/kyuwon.jpeg'
     email: kyuwoon369@gmail.com
     web: https://kyuwon53.github.io/
     description: "테스크 그로우 백엔드 엔지니어. 겸업으로 기획, 매니징, 오너 등을 맡음"
   jiho:
     name: Jiho
     display_name: Jiho
-    avatar: ''
+    avatar: '/assets/images/'
     email: tjfrhk1@gmail.com
     web: 
     description: "테스크 그로우 프론트 엔지니어. 겸업으로 디자인, 기획 등을 맡음"

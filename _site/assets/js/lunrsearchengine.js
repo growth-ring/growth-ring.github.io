@@ -1,37 +1,37 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/404.html",
+    "url": "http://localhost:4000/404.html",
     "title": "404",
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/about",
+    "url": "http://localhost:4000/about",
     "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
     "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/authors",
+    "url": "http://localhost:4000/authors",
     "title": "Authors",
-    "body": "                                                                                                                                                                                    Sal:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                                                                                                                                                                                                    John:         Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages.                "
+    "body": "                                                                                                                                                              kyuwon:         테스크 그로우 백엔드 엔지니어. 겸업으로 기획, 매니징, 오너 등을 맡음                                                                                                                                                       Jiho:         테스크 그로우 프론트 엔지니어. 겸업으로 디자인, 기획 등을 맡음                "
     }, {
     "id": 3,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/categories",
+    "url": "http://localhost:4000/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 4,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/contact",
+    "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": "  Please send your message to Memoirs. We will reply as soon as possible!   "
+    "body": "  Please send your message to Task Grow. We will reply as soon as possible!   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/",
+    "url": "http://localhost:4000/",
     "title": "Home",
     "body": "    "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/jekyll-theme-memoirs/robots.txt",
+    "url": "http://localhost:4000/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, ];
