@@ -1,37 +1,37 @@
 
 var documents = [{
     "id": 0,
-    "url": "http://localhost:4000/404.html",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/404.html",
     "title": "404",
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about",
-    "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
-    "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
+    "url": "http://localhost:4000/jekyll-theme-memoirs/about",
+    "title": "같이 성장 하는 일을 돕습니다.",
+    "body": "테스크 그로우는 같이 성장 하는 일을 돕는 성장 애플리케이션입니다. 뽀모도로를 이용한 할 일(To-Do) 관리 기능을 제공합니다. 할 일에 대한 뽀모도로 계획을 세우고, 회고를 할 수 있습니다. 이외에도 성장에 도움이 되는 기능을 게속해서 기획하고 개발합니다.  테스크 그로우 써보기 → "
     }, {
     "id": 2,
-    "url": "http://localhost:4000/authors",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/authors",
     "title": "Authors",
-    "body": "                                                                                                                                                              kyuwon:         테스크 그로우 백엔드 엔지니어. 겸업으로 기획, 매니징, 오너 등을 맡음                                                                                                                                                       Jiho:         테스크 그로우 프론트 엔지니어. 겸업으로 디자인, 기획 등을 맡음                "
+    "body": "                                                                                                                                                                                    Sal:         Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo.                                                                                                                                                                                                    John:         Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages.                "
     }, {
     "id": 3,
-    "url": "http://localhost:4000/categories",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 4,
-    "url": "http://localhost:4000/contact",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/contact",
     "title": "Contact",
-    "body": "  Please send your message to Task Grow. We will reply as soon as possible!   "
+    "body": "  Please send your message to Memoirs. We will reply as soon as possible!   "
     }, {
     "id": 5,
-    "url": "http://localhost:4000/",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/",
     "title": "Home",
     "body": "    "
     }, {
     "id": 6,
-    "url": "http://localhost:4000/robots.txt",
+    "url": "http://localhost:4000/jekyll-theme-memoirs/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, ];
