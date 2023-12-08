@@ -1,5 +1,3 @@
-# Memoirs Jekyll Theme
-
-[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
+# Growth-ring 깃허브 블로그
+## 성장을 돕는 뽀모도로를 이용한 할 일 관리 앱 
+[Task Grow](http://taskgrow.codesoom.com/)
