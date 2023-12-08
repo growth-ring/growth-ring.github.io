@@ -1,7 +1,7 @@
 # Site
-name: "Task Grow"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "Growth Ring"
+title: "Task Grow"
+description: "성장을 돕습니다! 테스크 그로우의 성장 일기 "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -10,7 +10,7 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: kyuwoon369@gmail.com
 
 # Authors
 authors:
