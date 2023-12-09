@@ -1,14 +1,14 @@
 # Site
-name: "Growth Ring"
-title: "Task Grow"
-description: "성장을 돕습니다! 테스크 그로우의 성장 일기 "
+name: 'Growth Ring'
+title: 'Task Grow'
+description: '성장을 돕습니다! 테스크 그로우의 성장 일기 '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
+include: ['_pages']
 permalink: /:title/
 email: kyuwoon369@gmail.com
 
@@ -20,14 +20,14 @@ authors:
     avatar: 'assets/images/kyuwon.jpg'
     email: kyuwoon369@gmail.com
     web: https://kyuwon53.github.io/
-    description: "테스크 그로우 백엔드 엔지니어. 겸업으로 기획, 매니징, 오너 등을 맡음"
+    description: '테스크 그로우 백엔드 엔지니어. 겸업으로 기획, 매니징, 오너 등을 맡음'
   jiho:
     name: Jiho
     display_name: Jiho
-    avatar: 'assets/images/'
-    email: tjfrhk1@gmail.com
-    web: 
-    description: "테스크 그로우 프론트 엔지니어. 겸업으로 디자인, 기획 등을 맡음"
+    avatar: 'assets/images/jiho.jpg'
+    email: kr36510@naver.com
+    web:
+    description: '테스크 그로우 프론트 엔지니어. 겸업으로 디자인, 기획 등을 맡음'
 
 # Plugins
 plugins:
@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -45,30 +45,28 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: none
 markdown: kramdown
 kramdown:
-   syntax_highlighter_opts:
-      disable : true
-
-
+  syntax_highlighter_opts:
+    disable: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense: 'disabled'
+adsense-data-ad-client: 'ca-pub-3412143450191416'
+adsense-data-ad-slot: '1363087678'
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: 'disabled'
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "enabled"
+authorbox: 'enabled'
 
 # Sass
 sass:
