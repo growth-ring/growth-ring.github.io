@@ -3,7 +3,7 @@ layout: page
 title: 같이 성장 하는 일을 돕습니다. 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/taskgrow-main-page.png
 imageshadow: true
 ---
 
