@@ -12,5 +12,5 @@ jobs:
     - name: Discord Webhook Action
       uses: tsickert/discord-webhook@v5.3.0
       with:
-        webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+        webhook-url: https://discord.com/api/webhooks/1184459156619542688/n-i3jmjbhzb1RKDMqzTP9x87PcMiyKoDNPpFcoEluOCcqCO3yx9y5MCfQwqdzL7H4Dv
         content: "10분 간격 알림 테스트 @here"
