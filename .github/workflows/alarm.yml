@@ -1,6 +1,7 @@
 
 name: 디스코드 알림봇
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '*/1 * * * *'
 
