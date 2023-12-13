@@ -2,8 +2,8 @@
 name: 디스코드 알림봇
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '*/1 * * * *'
+  #schedule:
+  #  - cron:  '*/1 * * * *'
 
 jobs:
   message:
